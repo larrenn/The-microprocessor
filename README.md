@@ -1,4 +1,4 @@
-# 🚀 STM32F103C8T6: Полное руководство по разработке
+ 🚀 STM32F103C8T6: Полное руководство по разработке
 
 ![STM32](https://img.shields.io/badge/STM32-F103C8T6-blue)
 ![ARM Cortex-M3](https://img.shields.io/badge/ARM-Cortex_M3-green)
@@ -125,29 +125,29 @@ MCU_Selection_t Select_MCU(Project_Requirements_t req) {
 }
 🔗 Полезные ссылки
 Официальные ресурсы
-Официальный сайт ST
+Официальный сайт ST - https://www.st.com/content/st_com/en.html
 
-Документация STM32F103
+Документация STM32F103 - https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html
 
-STM32CubeIDE Download
+STM32CubeIDE Download - https://www.st.com/en/development-tools/stm32cubeide.html
 
-STM32CubeMX
+STM32CubeMX - https://www.st.com/en/development-tools/stm32cubemx.html
 
 Инструменты разработки
-PlatformIO STM32
+PlatformIO STM32 - https://registry.platformio.org/platforms/platformio/ststm32
 
-STM32CubeProgrammer
+STM32CubeProgrammer - https://www.st.com/en/development-tools/stm32cubeprog.html
 
-OpenOCD
+OpenOCD - https://openocd.org/
 
 Библиотеки и сообщества
-STM32CubeF1 HAL
+STM32CubeF1 HAL - https://github.com/STMicroelectronics/STM32CubeF1
 
-STM32 Arduino Core
+STM32 Arduino Core - https://github.com/stm32duino/Arduino_Core_STM32
 
-STM32 Forum
+STM32 Forum - https://community.st.com/
 
-STM32 на Habr
+STM32 на Habr - https://habr.com/ru/hubs/stm32/articles/
 
 <div align="center">
 🛠️ Рекомендуемые инструменты
