@@ -1,5 +1,3 @@
-# Создаем компактный README.md с сохранением всей информации
-cat > README.md << 'EOF'
 # 🚀 STM32F103C8T6: Полное руководство по разработке
 
 ![STM32](https://img.shields.io/badge/STM32-F103C8T6-blue)
@@ -150,3 +148,9 @@ STM32 Arduino Core
 STM32 Forum
 
 STM32 на Habr
+
+<div align="center">
+🛠️ Рекомендуемые инструменты
+Программирование: ST-Link V2, J-Link EDU
+Среды: STM32CubeIDE, PlatformIO + VS Code
+Отладка: OpenOCD, GDB
