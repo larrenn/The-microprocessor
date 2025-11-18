@@ -1,4 +1,4 @@
- 🚀 STM32F103C8T6: Полное руководство по разработке
+# 🚀 STM32F103C8T6: Полное руководство по разработке
 
 ![STM32](https://img.shields.io/badge/STM32-F103C8T6-blue)
 ![ARM Cortex-M3](https://img.shields.io/badge/ARM-Cortex_M3-green)
@@ -135,22 +135,3 @@ STM32CubeMX - https://www.st.com/en/development-tools/stm32cubemx.html
 
 Инструменты разработки
 PlatformIO STM32 - https://registry.platformio.org/platforms/platformio/ststm32
-
-STM32CubeProgrammer - https://www.st.com/en/development-tools/stm32cubeprog.html
-
-OpenOCD - https://openocd.org/
-
-Библиотеки и сообщества
-STM32CubeF1 HAL - https://github.com/STMicroelectronics/STM32CubeF1
-
-STM32 Arduino Core - https://github.com/stm32duino/Arduino_Core_STM32
-
-STM32 Forum - https://community.st.com/
-
-STM32 на Habr - https://habr.com/ru/hubs/stm32/articles/
-
-<div align="center">
-🛠️ Рекомендуемые инструменты
-Программирование: ST-Link V2, J-Link EDU
-Среды: STM32CubeIDE, PlatformIO + VS Code
-Отладка: OpenOCD, GDB
