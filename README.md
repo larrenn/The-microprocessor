@@ -62,7 +62,7 @@ void SystemClock_Config(void) {
     RCC_OscInitStruct.HSEState = RCC_HSE_ON;
     RCC_OscInitStruct.PLL.PLLState = RCC_PLL_ON;
     RCC_OscInitStruct.PLL.PLLSource = RCC_PLLSOURCE_HSE;
-    RCC_OscInitStruct.PLL.PLLMUL = RCC_PLL_MUL9;  // 8MHz × 9 = 72MHz
+    RCC_OscInitStruct.PLL.PLLMUL = RCC_PLL_MUL9;
 }
 Пример конфигурации PlatformIO
 ini
@@ -124,22 +124,27 @@ MCU_Selection_t Select_MCU(Project_Requirements_t req) {
     return ARDUINO;
 }
 🔗 Полезные ссылки
-🔗 Полезные ссылки
 Официальные ресурсы
-Официальный сайт ST - https://www.st.com/content/st_com/en.html
+Официальный сайт ST
 
-Документация STM32F103 - https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html
+Документация STM32F103
 
-STM32CubeIDE Download - https://www.st.com/en/development-tools/stm32cubeide.html
+STM32CubeIDE Download
 
-STM32CubeMX - https://www.st.com/en/development-tools/stm32cubemx.html
+STM32CubeMX
 
 Инструменты разработки
-PlatformIO STM32 - https://registry.platformio.org/platforms/platformio/ststm32
+PlatformIO STM32
 
-<div align="center">
-🛠️ Рекомендуемые инструменты
-Программирование: ST-Link V2, J-Link EDU
-Среды: STM32CubeIDE, PlatformIO + VS Code
-Отладка: OpenOCD, GDB
+STM32CubeProgrammer
 
+OpenOCD
+
+Библиотеки и сообщества
+STM32CubeF1 HAL
+
+STM32 Arduino Core
+
+STM32 Forum
+
+STM32 на Habr
